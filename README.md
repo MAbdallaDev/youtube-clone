@@ -8,7 +8,7 @@ https://youtube-clone-coral-eight.vercel.app/
 
 #### TVFlix Demo Screeshots.
 
-![TVFlix Logo](./youtube-screenshot.png)
+![TVFlix Logo](./youtube-screenshot-2.png)
 ## Features
 
 - Search for YouTube videos.
